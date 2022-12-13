@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly manifestVersion="1.0" xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity version="4.1.5.224" name="SIMS.exe" publicKeyToken="392c5cb84148f494" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="srms logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="SIMS" version="3.5.2.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="SIMS.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet class="System.Security.PermissionSet" version="1" Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- UAC Manifest Options
+            If you want to change the Windows User Account Control level replace the 
+            requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+            If you want to utilize File and Registry Virtualization for backward 
+            compatibility then delete the requestedExecutionLevel node.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MySql.Data" version="6.2.2.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SIMS.exe" size="19944960">
+      <assemblyIdentity name="SIMS" version="3.5.2.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>1cGdt+2jG9kPpx7smKCtIBr78CQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Data-management.ico" size="208711">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>4AF674Krm3sNIKXVsUfP/H8Eo/E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Fasticon-Comic-Iphone-Notes.ico" size="94198">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+I7mdNiMZ+AtWFyySgOI35t/3ec=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="SIMS.exe.config" size="1855">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>dPXPpZmjHh61UBWfB7joBF5Sy1E=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="srms logo.ico" size="133536">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rmkEOnVhkd/mfEEE2fAyGZRf79Y=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SERVER1\Server1" issuerKeyHash="244df769de580a1b4b7953b3556a140fab839596" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>S/lAoecSL8WOmKk2FnG3lWLhYqo=</DigestValue></Reference></SignedInfo><SignatureValue>Kkzm1Br6mMRLHRpIbE8cz25cTwAEUsHE1FuCzAAKl8BjLE0zCIYlPfWeoYvYEOfTL+SI2TU5hH63oa3a2Z0kTD8T0gCPFyjxxEvXmyw9x+1QEmY1RCELDBoa6ksXxDdWzrKwtdY+UaSedLsUXY1H/UZg5qMyapYKijKY+GO+eHA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>0krWhi7FNwTzLi3etv7VvigAnCaHo6/+EAhd6i7I1scsC31RpeuDrCawGRAaSEKjtCbyg3SBVPQWuM+fmOVIojfNNx+hXxXPm/Xk5jMxIBrA1e17p1Bp2lb0pM3J1xTBWE12mNTNI6JOyvte/p06boDcigJsHqe8nqnYFjEkJY0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="aa62e16295b7711636a9988ec52f12e7a140f94b" Description="" Url=""><as:assemblyIdentity version="4.1.5.224" name="SIMS.exe" publicKeyToken="392c5cb84148f494" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SERVER1\Server1</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>pNzajPc+Gt/v5J1YweQhs9Ot0+o=</DigestValue></Reference></SignedInfo><SignatureValue>ZzMyDkLWnbpxvqlHil80VLTIlGNcIkuJrSjCjunngPOOLJ7QFJP39LlCZp1SDy/4FKC4HYsrZe4O/km9VE0YZ1PJGvccuCCOLeEUf+g5432XW1FivjiTpzgYxGO1qGQiJGgetVJ18ixbWWsgLNFH3Z+o0lI3hb+Wk+uRQD9X2WM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>0krWhi7FNwTzLi3etv7VvigAnCaHo6/+EAhd6i7I1scsC31RpeuDrCawGRAaSEKjtCbyg3SBVPQWuM+fmOVIojfNNx+hXxXPm/Xk5jMxIBrA1e17p1Bp2lb0pM3J1xTBWE12mNTNI6JOyvte/p06boDcigJsHqe8nqnYFjEkJY0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB1TCCAT6gAwIBAgIQYyaneXfg+YNAwgKK4MR8kzANBgkqhkiG9w0BAQUFADApMScwJQYDVQQDHh4AUwBFAFIAVgBFAFIAMQBcAFMAZQByAHYAZQByADEwHhcNMjIwODE1MTQ1NTMyWhcNMjMwODE1MjA1NTMyWjApMScwJQYDVQQDHh4AUwBFAFIAVgBFAFIAMQBcAFMAZQByAHYAZQByADEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBANJK1oYuxTcE8y4t3rb+1b4oAJwmh6Ov/hAIXeouyNbHLAt9UaXrg6wmsBkQGkhCo7Qm8oN0gVT0FrjPn5jlSKI3zTcfoV8Vz5v15OYzMSAawNXte6dQadpW9KTNydcUwVhNdpjUzSOiTsr7Xv6dOm6A3IoCbB6nvJ6p2BYxJCWNAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEARIg3/f4HtTG+h7EQwgu9AtevjJqrHm9rhjcABNDnQI43awdVSJkyiVdwGm0/GVkSJnbW4N8rvSWbW9CKC4E4xAGqyIotLX/qXzvpab0Mhclt/9y5m3ZAJ5DJKrvZrBfPf1+Sl7n3ielKJV7jmLH+phJQYkfYkFGOC0JNNrfLT+I=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

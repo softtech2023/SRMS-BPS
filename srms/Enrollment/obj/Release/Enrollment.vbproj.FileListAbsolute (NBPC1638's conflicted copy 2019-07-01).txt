@@ -1,0 +1,322 @@
+E:\SIMS Projects\srms\srms\Enrollment\bin\Release\SIMS.exe.config
+E:\SIMS Projects\srms\srms\Enrollment\bin\Release\SIMS.exe.manifest
+E:\SIMS Projects\srms\srms\Enrollment\bin\Release\SIMS.application
+E:\SIMS Projects\srms\srms\Enrollment\bin\Release\SIMS.exe
+E:\SIMS Projects\srms\srms\Enrollment\bin\Release\SIMS.pdb
+E:\SIMS Projects\srms\srms\Enrollment\bin\Release\SIMS.xml
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\ResolveAssemblyReference.cache
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmAdding.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmDroppingForm.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectStudeDrop.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectSubtoAdd.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectStudetoDropped.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCourseCollectionSummary.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmOtherIncomDesc.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectStude.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStudeReport_Accounting.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmAcademic_Calendar.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmAgesReport.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSummary.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStatSummary.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmGatePass.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmGatePassDashboard.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchGatePass.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmInstructorInput.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchPrintGS.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectTeacherMasterList.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmTeacherMasterList.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmLeaveForm.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchPersonnel.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmsearchPersonnelForTravel.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmTravelOrder.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmQSearch.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmChangeLRN.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmLockUnlockGrades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmFileUploader.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmGrades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchGrades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmselect_input_grades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmselect_input_stude.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmselect_report_gradingsheet.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelect_Subject.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmParent.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCertification.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmReceiveGradeSheets.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectGS.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchEnrollees.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchStudeUpload.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStudeSpecialReport.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmClassSchedPrinting.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmAddFees.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmBilling.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmExpenses.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmPromissory.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStudeRefund.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCapture.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.About.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmClassRooms.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCourses.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmScholarship.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmGradingSheets.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmDiploma.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmInsurance.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmLoading.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmMasterList.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmPerSpecialization.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmRoomSched.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSchoolRegisterForm.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.ChangeSem.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCOR.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmFees.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.LoginForm.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.Resources.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmPayment.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStaff.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSubjects.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmRooms.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSearchTeacher.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmSystemSettings.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.TrustInfo.xml
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.exe.manifest
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.application
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.exe
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.xml
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.pdb
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmCSE.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmEducation.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmFamilyBackground.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmOtherInfo.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmTrainings.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmVW.resources
+E:\SIMS Projects\srms\srms\Enrollment\obj\Release\SIMS.frmWE.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\bin\Release\SIMS.exe.config
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\bin\Release\SIMS.exe.manifest
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\bin\Release\SIMS.application
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\bin\Release\SIMS.exe
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\bin\Release\SIMS.pdb
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\bin\Release\SIMS.xml
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmAdding.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectSubtoAdd.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectStudetoDropped.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmByDescription.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmByDescriptionYL.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCourseCollectionSummary.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCourseFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmInstallmentFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmOtherIncomDesc.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchORforVoid.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectStude.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStudeReport_Accounting.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmVoidOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmVoidReport.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmAcademic_Calendar.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmAgesReport.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSummary.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStatSummary.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmContactDirectory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmAccelerated.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmAddSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmChangeAdvisers.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmChangePassword.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmChangeTeacher.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmDroppingFOrm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmNutStatForm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmTrackandStrand.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmTransferredOut.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmGatePass.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmGatePassDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchGatePass.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmDeleteGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmEncodeGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFirstGrading.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFourthGradingSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFouthGrading.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmGradesBatchPrinting.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmModifyGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchForEncodeGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchModifyGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchStudeEncodeGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSecondGrading.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFirstGradingSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSecondGradingSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmThirdGrading.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmThirdGradingSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmInstructorInput.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPrintGSAdvisory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchPrintGS.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectTeacherMasterList.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmTeacherMasterList.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.Brand.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmMRDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPhysicalCount.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmProducts.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmReportViewer.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchPersonnel2.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmBooksInfo.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchBooks.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchBooksMain.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectAuthor.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmClassReplacement.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCSE.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmEducation.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFamilyBackground.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmLeaveForm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmOtherInfo.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchPersonnel.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmsearchPersonnelForTravel.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmTrainings.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmTravelOrder.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmVW.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmWE.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmQSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCAVReq.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCavReqSearch.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmChangeLRN.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmConsolidatedDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmLockUnlockGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFileUploader.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPrevGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmselectStudent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectSubjectsPrev.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmselect_input_grades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmselect_input_stude.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmselect_report_gradingsheet.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchInstructors_Scheduling.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectSchool0.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelect_Subject.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmInputGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmParent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCertification.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmReceiveGradeSheets.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectGS.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchEnrollees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchStudeUpload.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStudeSpecialReport.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmClassSchedPrinting.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmAddFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmBilling.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCollectionDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCollectionSummaryDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmEditPayments.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmExpenses.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmExpReportDashobard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmOtherIncome.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPromissory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStudeRefund.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearch4Promissory.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchAccountforPayments.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.SearchAccounts.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchBilling.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCapture.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.About.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmClassRooms.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCompleteList.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCourses.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPrevSchool.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmScholarship.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchRooms.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectSchool1.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectSchool2.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmEnrollmentSummaryDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchCOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmGradingSheets.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmDiploma.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmIncomeStatement.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmInsurance.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmLoading.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmMainViewer.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmMasterList.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmMasterlistDashboardbyCourse.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPrintGradingSheet.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPerSpecialization.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPerSpecializationYL.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmReportNutStatus.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmReportPerSection.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmRoomSched.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmScholarshipDashboard.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSchoolRegisterForm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectInstructor.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSelectSubject_Masterlist.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.ChangeSem.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCOR.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmCurriculum.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmFees.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.LoginForm.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStudeAccount.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.Resources.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmPayment.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchSemesterStudent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchSemSub_InputGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchSemSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchStudents.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSemStudent.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStaff.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStudeProfile.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSemSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSubjects.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmuseraccounts.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmRooms.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSearchTeacher.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmStudeGrades.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.frmSystemSettings.resources
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\Enrollment.vbproj.GenerateResource.Cache
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.TrustInfo.xml
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.exe.manifest
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.application
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.exe
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.xml
+C:\Users\ICT\Dropbox\SRMS PROJECTS\deped-srms 3.5.6 higher\srms\Enrollment\obj\Release\SIMS.pdb

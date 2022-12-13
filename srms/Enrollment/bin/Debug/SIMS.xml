@@ -1,0 +1,1880 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SIMS
+</name>
+</assembly>
+<members>
+<member name="T:SIMS.gatepassDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.DataSet.curriculumDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.coursesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet._Report___CORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet._Report___Enrollment_ListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet._Report_Payment_HistoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.StudeAccountsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.CollectionReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.paymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.TORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.DailyCollectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.otherpaymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.ListofStudentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.CORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.loadingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.billingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.ClearanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.CourseListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.semsubjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.usersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.subjectsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.semesterstudeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.scholarshipsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.ledgerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.ReligionCountsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.EnrolledPerMunicipalityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.hr_travelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.ClassListDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet.curriculumRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.coursesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet._Report___CORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet._Report___Enrollment_ListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet._Report_Payment_HistoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.StudeAccountsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.CollectionReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.paymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.TORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.DailyCollectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.otherpaymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.ListofStudentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.CORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.loadingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.billingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.ClearanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.CourseListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.semsubjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.usersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.subjectsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.semesterstudeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.scholarshipsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.ledgerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.ReligionCountsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.EnrolledPerMunicipalityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.hr_travelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.ClassListRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet.curriculumRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.coursesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet._Report___CORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet._Report___Enrollment_ListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet._Report_Payment_HistoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.StudeAccountsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.CollectionReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.paymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.TORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.DailyCollectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.otherpaymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.ListofStudentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.CORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.loadingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.billingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.ClearanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.CourseListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.semsubjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.usersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.subjectsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.semesterstudeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.scholarshipsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.ledgerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.ReligionCountsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.EnrolledPerMunicipalityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.hr_travelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet.ClassListRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.curriculumTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.coursesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.Report___CORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.Report___Enrollment_ListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.Report_Payment_HistoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.StudeAccountsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.CollectionReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.paymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.TORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.DailyCollectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.otherpaymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.ListofStudentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.CORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.loadingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.billingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.ClearanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.CourseListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.semsubjectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.usersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.subjectsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.semesterstudeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.scholarshipsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.ledgerTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.ReligionCountsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.EnrolledPerMunicipalityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.hr_travelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.ClassListTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.DataSetTableAdapters.TableAdapterManager.UpdateAll(SIMS.DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SIMS.Reports3.studentProfileDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.ClassReplacementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.collectionReport1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.CAVRequestDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.TORNewDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.form137DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.DTRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports3.studentProfileRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.ClassReplacementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.collectionReport1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.CAVRequestRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.TORNewRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.form137Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.DTRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports3.studentProfileRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3.ClassReplacementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3.collectionReport1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3.CAVRequestRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3.TORNewRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3.form137RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3.DTRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.studentProfileTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.ClassReplacementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.collectionReport1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.CAVRequestTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.TORNewTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.form137TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.DTRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.Reports3TableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.Reports3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.Reports3TableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.Reports3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.Reports3TableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.Reports3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.Reports3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.Reports3TableAdapters.TableAdapterManager.UpdateAll(SIMS.Reports3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.Reports3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SIMS.libDataSet.libpublisherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libcategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.liblocationDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libmaterialsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libpaymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libbookentryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.DailyTransactionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.reports_unreturnedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libpublisherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libcategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.liblocationRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libmaterialsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libpaymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libbookentryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.DailyTransactionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.reports_unreturnedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.libDataSet.libpublisherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.libcategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.liblocationRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.libmaterialsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.libpaymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.libbookentryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.DailyTransactionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet.reports_unreturnedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.libDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.libpublisherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.libcategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.liblocationTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.libmaterialsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.libpaymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.libbookentryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.DailyTransactionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.reports_unreturnedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.libDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.libDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.libDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.libDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.libDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.libDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.libDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.libDataSetTableAdapters.TableAdapterManager.UpdateAll(SIMS.libDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.libDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SIMS.Reports2.goodmoralDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.OfficialReceiptsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.DailystudeCollectionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.voidPaymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.slotsMonitoringDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.sectionsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.studeSubjectsSummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.courseCollectionSummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.accts_updateDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.TORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.calendarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.roomsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.OR_ServicesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.schoolRegisterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.NutritionalStatusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.GradeSheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports2.goodmoralRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.OfficialReceiptsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.DailystudeCollectionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.voidPaymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.slotsMonitoringRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.sectionsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.studeSubjectsSummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.courseCollectionSummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.accts_updateRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.TORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.calendarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.roomsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.OR_ServicesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.schoolRegisterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.NutritionalStatusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.GradeSheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports2.goodmoralRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.OfficialReceiptsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.DailystudeCollectionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.voidPaymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.slotsMonitoringRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.sectionsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.studeSubjectsSummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.courseCollectionSummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.accts_updateRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.TORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.calendarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.roomsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.OR_ServicesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.schoolRegisterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.NutritionalStatusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.GradeSheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.goodmoralTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.OfficialReceiptsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.DailystudeCollectionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.voidPaymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.slotsMonitoringTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.sectionsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.studeSubjectsSummaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.courseCollectionSummaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.accts_updateTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.TORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.calendarTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.roomsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.OR_ServicesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.schoolRegisterTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.NutritionalStatusTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.GradeSheetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.Reports2TableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.Reports2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.Reports2TableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.Reports2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.Reports2TableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.Reports2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.Reports2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.Reports2TableAdapters.TableAdapterManager.UpdateAll(SIMS.Reports2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.Reports2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SIMS.Reports4.newReportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports4.consolidatedGradesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports4.attendanceLogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports4.indAttendanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports4.personnelDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports4.newReportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports4.consolidatedGradesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports4.attendanceLogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports4.indAttendanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports4.personnelRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports4.newReportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports4.consolidatedGradesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports4.attendanceLogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports4.indAttendanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports4.personnelRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.newReportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.consolidatedGradesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.attendanceLogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.indAttendanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.personnelTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.Reports4TableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.Reports4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.Reports4TableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.Reports4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.Reports4TableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.Reports4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.Reports4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.Reports4TableAdapters.TableAdapterManager.UpdateAll(SIMS.Reports4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.Reports4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SIMS.Reports.paymentsaccountsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.accountSummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.CollectionsSummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.expensesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.semesterstudeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.incomestatementDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.promissoryNotesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.SchedulesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.ClearanceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.GuardianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.MRDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.ls_itemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.report_physicalCountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.studelogsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.Reports.paymentsaccountsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.accountSummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.CollectionsSummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.expensesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.semesterstudeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.incomestatementRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.promissoryNotesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.SchedulesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.ClearanceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.GuardianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.MRRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.ls_itemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.report_physicalCountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.studelogsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.Reports.paymentsaccountsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.accountSummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.CollectionsSummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.expensesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.semesterstudeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.incomestatementRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.promissoryNotesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.SchedulesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.ClearanceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.GuardianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.MRRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.ls_itemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.report_physicalCountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports.studelogsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.Reports">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.paymentsaccountsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.accountSummaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.CollectionsSummaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.expensesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.semesterstudeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.incomestatementTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.promissoryNotesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.SchedulesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.ClearanceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.GuardianTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.MRTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.ls_itemsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.report_physicalCountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.studelogsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.ReportsTableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.Reports,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.ReportsTableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.Reports,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.ReportsTableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.Reports,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.ReportsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.ReportsTableAdapters.TableAdapterManager.UpdateAll(SIMS.Reports)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.ReportsTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:SIMS.DataSet2.curriculumDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.installmentfeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.cashierAcctDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.HonorableDismissalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.get_majorDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.GradingSheetDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.roomsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.acctTrackingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.ethnicityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.provinceDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.CityDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.BrgyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.stude_specialreportsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.ReligionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.Chart_SexDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.EthnicityCountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.grades_reportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.enrolmentCountSummaryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.RatingReportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.idCardDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.ls_distributionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.OnlineEnrolleesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SIMS.DataSet2.curriculumRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.installmentfeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.cashierAcctRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.HonorableDismissalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.get_majorRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.GradingSheetRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.roomsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.acctTrackingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.ethnicityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.provinceRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.CityRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.BrgyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.stude_specialreportsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.ReligionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.Chart_SexRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.EthnicityCountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.grades_reportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.enrolmentCountSummaryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.RatingReportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.idCardRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.ls_distributionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.OnlineEnrolleesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SIMS.DataSet2.curriculumRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.installmentfeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.cashierAcctRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.HonorableDismissalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.get_majorRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.GradingSheetRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.roomsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.acctTrackingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.ethnicityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.provinceRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.CityRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.BrgyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.stude_specialreportsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.ReligionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.Chart_SexRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.EthnicityCountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.grades_reportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.enrolmentCountSummaryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.RatingReportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.idCardRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.ls_distributionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2.OnlineEnrolleesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SIMS.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.curriculumTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.installmentfeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.cashierAcctTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.HonorableDismissalTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.get_majorTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.GradingSheetTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.roomsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.acctTrackingTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.ethnicityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.provinceTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.CityTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.BrgyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.stude_specialreportsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.ReligionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.Chart_SexTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.EthnicityCountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.grades_reportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.enrolmentCountSummaryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.RatingReportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.idCardTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.ls_distributionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.OnlineEnrolleesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SIMS.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(SIMS.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SIMS.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(SIMS.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SIMS.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(SIMS.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SIMS.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SIMS.DataSet2TableAdapters.TableAdapterManager.UpdateAll(SIMS.DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SIMS.DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:SIMS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SIMS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SIMS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
